@@ -5,6 +5,6 @@ public class HolaMundo {
 		System.out.println("Hola mundo");
 		System.out.println("Adios mundo");
 		int x = 5;
-		System.out.println("Hola mundo "+x);
+		System.out.println("Hola mundoooo "+x);
 	}
 }
